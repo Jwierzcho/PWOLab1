@@ -18,5 +18,6 @@ public class Main {
     }
     public void test(String name) {
         System.out.println(name + "1");
+        System.out.println(name + "xD");
     }
 }
