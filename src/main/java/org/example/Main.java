@@ -17,6 +17,6 @@ public class Main {
         }
     }
     public void test(String name) {
-        System.out.println();
+        System.out.println(name + "1");
     }
 }
