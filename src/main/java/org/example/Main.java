@@ -16,4 +16,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public void test(String name){
+        System.out.println(name);
+    }
 }
